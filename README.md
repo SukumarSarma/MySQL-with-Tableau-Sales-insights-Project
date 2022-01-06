@@ -19,7 +19,6 @@ Downloaded a real world data in the form of SQL database dump format file where 
   
 ## Screenshots
 1. Profit Analysis
-
 ![Screenshot (248)](https://user-images.githubusercontent.com/86522739/148404772-ce7c04f4-f4bc-4b3d-8c7a-ccd1c995f6a5.png)
 
 2. Revenue Analysis
